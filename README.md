@@ -13,3 +13,4 @@ This is my first commit to the Hushh Labs organisation
 - Collaboration
 - Web Development
 - AI/ML
+- Web Scraping
